@@ -31,11 +31,11 @@
 
 <h3>Languages and Tools:</h3>
 
-<p> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<p> <a href="https://developer.android.com" target="_blank"> <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif?cid=ecf05e47vdc1kpm8rm5uyizq6ugjyqdwnjd0gb270x5tl4th&rid=giphy.gif&ct=s" alt="android" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif?cid=790b7611ce039e7e09bada6f4208bedce522d0c266c8d364&rid=giphy.gif&ct=s" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=790b7611843c948c828452e5771ffaffddcbb2ee44fb196b&rid=giphy.gif&ct=s" alt="git" width="40" height="40"/> </a>  
   <br>
   
  
@@ -68,16 +68,3 @@ Credits: [Adem Polat](https://github.com/adempolat)
 Last Edited on: 03/09/2021
    
    ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
-   
-<br>
-<p align="center">
-  <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif?cid=ecf05e47vdc1kpm8rm5uyizq6ugjyqdwnjd0gb270x5tl4th&rid=giphy.gif&ct=s" width="100">
-   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
-  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
-</p>
-<br>
-
-   
