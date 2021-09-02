@@ -1,14 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Adem</h1>
 <h3 align="center">I am an Android developer</h3>
-<p align="center">
+<h3 align="center">
   
 ![age](https://img.shields.io/badge/age-26-blue)
 ![focus](https://img.shields.io/badge/focus-android-brightgreen)
 ![living](https://img.shields.io/badge/living-istanbul-3c9)
-  
-  </p>
-</br>
+  </h3>
+
+ <h1></h1>
+
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
   
