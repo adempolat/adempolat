@@ -1,7 +1,7 @@
 
 <h3 align=center>
 <p align="center">
- Hi, I'm Adem.
+ Hi, I'm Adem Polat.
 <p align="center">
  
  <p align="center">
@@ -16,7 +16,9 @@
 
 <p align="center">
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adempolat/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adempolat1995@gmail.com)<p align="center">
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adempolat1995@gmail.com)
+ 
+ <p align="center">
  
  <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
