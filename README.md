@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adem</h1>
-<h3 align="center">I am Android developer</h3>
+<h3 align="center">I am Android Developer</h3>
 <h3 align="center">
   
 ![age](https://img.shields.io/badge/age-26-blue)
