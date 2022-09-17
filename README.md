@@ -3,7 +3,7 @@
 <h3 align="center">I am Android Developer</h3>
 <h3 align="center">
   
-![age](https://img.shields.io/badge/age-26-blue)
+![age](https://img.shields.io/badge/age-27-blue)
 ![focus](https://img.shields.io/badge/focus-android-brightgreen)
 ![living](https://img.shields.io/badge/living-istanbul-3c9)
   </h3>
@@ -68,4 +68,3 @@ Credits: [Adem Polat](https://github.com/adempolat)
 
 Last Edited on: 03/09/2021
    
-   ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
