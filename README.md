@@ -1,9 +1,14 @@
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=36&pause=1000&color=1536F7&center=true&vCenter=true&random=false&width=435&lines=Adem+Polat" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=34&pause=1000&color=1536F7&center=true&vCenter=true&random=false&width=435&lines=Android+Developer" alt="Typing SVG" /></a>
+</div>
 
-<h1 align="center">Hi 👋, I'm Adem</h1>
-<h3 align="center">I am Android Developer</h3>
+
+
+
+
 <h3 align="center">
   
-![age](https://img.shields.io/badge/age-29-blue)
 ![focus](https://img.shields.io/badge/focus-android-brightgreen)
 ![living](https://img.shields.io/badge/living-istanbul-3c9)
   </h3>
@@ -50,16 +55,21 @@
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adempolat&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liNDJoMjZpMHhhMGplcDUwd3IzaG52dTZuYXFycnRzYnFyamF0cCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9cw/YV3pnketRSh20PsLf1/giphy.gif"  height="150">
 
  <p align="center">
  <p align="center">
    <br>
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="40%" align="left">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTUxNnVvZ3dkZGpuYWRlb2NpOGNoejVmM2h2Y2I0MDRmY2I2OTVmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" width="40%" height="60" align="left">
+
+
    
    <br>
     <div align="right">
 <img src="https://komarev.com/ghpvc/?username=adempolat&&style=flat-square" align="right" />
+      
+
+
 </div>  
    <br>
    <br>
