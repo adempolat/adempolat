@@ -1,81 +1,76 @@
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Adem Polat — Mobile Developer · Android & iOS" />
+</p>
+
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=36&pause=1000&color=1536F7&center=true&vCenter=true&random=false&width=435&lines=Adem+Polat" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=34&pause=1000&color=1536F7&center=true&vCenter=true&random=false&width=435&lines=Android+Developer" alt="Typing SVG" /></a>
-</div>
 
-
-
-
-
-<h3 align="center">
-  
-![focus](https://img.shields.io/badge/focus-android-brightgreen)
-![living](https://img.shields.io/badge/living-istanbul-3c9)
-  </h3>
-
- <h1></h1>
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
-  
- <p>
-  
-
-<h3>Connect with me:</h3>
-
- 
- <p>
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adempolat/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adempolat1995@gmail.com)
- 
-
-<br>
-<h3>Languages and Tools:</h3>
-
-<p> <a href="https://developer.android.com" target="_blank"> <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif?cid=ecf05e47vdc1kpm8rm5uyizq6ugjyqdwnjd0gb270x5tl4th&rid=giphy.gif&ct=s" alt="android" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif?cid=790b7611ce039e7e09bada6f4208bedce522d0c266c8d364&rid=giphy.gif&ct=s" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=790b7611843c948c828452e5771ffaffddcbb2ee44fb196b&rid=giphy.gif&ct=s" alt="git" width="40" height="40"/> </a>  
-  <br>
-  
- 
- <h1></h1>
-
-
-
-
-<h3>My GitHub Stats :bar_chart:</h3>
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=7A81FF&center=true&vCenter=true&width=640&lines=Merhaba!+Ben+Adem+%F0%9F%91%8B;Android+%26+iOS+uygulamalar%C4%B1+geli%C5%9Ftiriyorum+%F0%9F%93%B1;Kotlin+%E2%9D%A4%EF%B8%8F+Swift;Kelime+oyunlar%C4%B1%2C+bulmacalar%2C+sim%C3%BClasyonlar+%F0%9F%A7%A9;%C4%B0stanbul'dan+kod+yaz%C4%B1yorum+%F0%9F%8C%89" alt="Typing SVG" /></a>
 
 <p>
+  <a href="https://play.google.com/store/apps/developer?id=PLTApps"><img src="https://img.shields.io/badge/Google_Play-13_uygulama-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" /></a>&nbsp;<a href="https://apps.apple.com/tr/developer/adem-polat/id1894213497"><img src="https://img.shields.io/badge/App_Store-3_uygulama-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" /></a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/adempolat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:adempolat1995@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=adempolat&show_icons=true&theme=dracula" alt="adempolat :: Profile Stats" />
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adempolat&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite"/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2liNDJoMjZpMHhhMGplcDUwd3IzaG52dTZuYXFycnRzYnFyamF0cCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9cw/YV3pnketRSh20PsLf1/giphy.gif"  height="150">
+</div>
 
- <p align="center">
- <p align="center">
-   <br>
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="40%" align="left">
+---
+
+<img align="right" width="300" alt="Klavyeye vuran kedi" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+
+### 🧑‍💻 Hakkımda
+
+- 📱 Android ve iOS için **mobil uygulamalar ve oyunlar** geliştiriyorum
+- 🚀 **PLTApps** adıyla Google Play'de 13, App Store'da 3 uygulamam yayında
+- 📍 İstanbul
+
+<br clear="right" />
+
+### 📱 Yayındaki uygulamalarım
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/developer?id=PLTApps"><img src="https://img.shields.io/badge/Google_Play-PLTApps-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" /></a>
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.adempolat.leaguesimulation"><img src="./assets/apps/simuleague.svg" width="125" alt="SimuLeague" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.adempolat.kpsshistory"><img src="./assets/apps/kpss-ags.svg" width="125" alt="KPSS-AGS" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.adempolat.watersortgame"><img src="./assets/apps/water-sort.svg" width="125" alt="Water Sort" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.adempolat.okey101"><img src="./assets/apps/yuzbir.svg" width="125" alt="Yüzbir 101 Okey" /></a>
+<br/>  <a href="https://play.google.com/store/apps/details?id=com.adempolat.wordlymaster"><img src="./assets/apps/wordly-master.svg" width="125" alt="Wordly Master" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.adempolat.kelime"><img src="./assets/apps/lugat.svg" width="125" alt="Lügat" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.adempolat.wordpuzzle"><img src="./assets/apps/kelime-zinciri.svg" width="125" alt="Kelime Zinciri" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.codecorp.tycoon"><img src="./assets/apps/devcorp.svg" width="125" alt="Devcorp Empire" /></a>
+<br/>  <a href="https://play.google.com/store/apps/details?id=com.adempolat.battleshipcompose"><img src="./assets/apps/battleships.svg" width="125" alt="BattleShips" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.adempolat.dropmerge"><img src="./assets/apps/number-drop.svg" width="125" alt="Number Drop" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.adempolat.circlematch"><img src="./assets/apps/circlematch.svg" width="125" alt="CircleMatch" /></a>
+  <a href="https://play.google.com/store/apps/details?id=tr.cerkes.klavye"><img src="./assets/apps/cerkesce-klavye.svg" width="125" alt="Çerkesçe Klavye" /></a>
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/tr/developer/adem-polat/id1894213497"><img src="https://img.shields.io/badge/App_Store-Adem_Polat-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" /></a>
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/tr/app/simuleague-football-simulator/id6762457884"><img src="./assets/apps/simuleague.svg" width="125" alt="SimuLeague" /></a>
+  <a href="https://apps.apple.com/tr/app/kpss-ags-konu-%C3%B6zeti-test/id6766096432"><img src="./assets/apps/kpss-ags.svg" width="125" alt="KPSS-AGS" /></a>
+  <a href="https://apps.apple.com/tr/app/water-sort-game/id6822056309"><img src="./assets/apps/water-sort.svg" width="125" alt="Water Sort" /></a>
+</p>
+
+### 🛠️ Kullandıklarım
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,swift,firebase,git,github&perline=7" alt="Kotlin, Java, Android Studio, Swift, Firebase, Git, GitHub" />
+  </a>
+</p>
+
+### 📈 Aktivite
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adempolat&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub seri istatistikleri" />
+</p>
 
 
-   
-   <br>
-    <div align="right">
-<img src="https://komarev.com/ghpvc/?username=adempolat&&style=flat-square" align="right" />
-      
-
-
-</div>  
-   <br>
-   <br>
-   <br>
-
------
-Credits: [Adem Polat](https://github.com/adempolat)
-
-   
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:73FDFF,50:7A81FF,100:1536F7&height=120&section=footer" />
